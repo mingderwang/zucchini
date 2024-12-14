@@ -1,0 +1,14 @@
+{
+  "consensus": "ibft2",
+  "chainID": 9,
+  "blockperiod": 5,
+  "requestTimeout": 10,
+  "epochLength": 30000,
+  "difficulty": 1,
+  "gasLimit": "0xffffff",
+  "validators": 4,
+  "members": 1,
+  "accountPassword": "",
+  "zkDevAccounts": true,
+  "outputPath": "./output"
+}
